@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descriptive Metadata"
+    id="3b496d56"
+    documentation="A resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.&#xA;Three types of Metadata exist:&#xA;* Descriptive metadata; for finding or understanding a resource.&#xA;* Administrative metadata&#xA;- Technical metadata; &#xA;- Preservation metadata&#xA;- Rights metadata&#xA;Source: &#xA;http://www.niso.org/publications/press/UnderstandingMetadata.pdf ">
+  <properties
+      key="ID"
+      value="ABB195"/>
+  <properties
+      key="dct:type"
+      value="eira:DescriptiveMetadata"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

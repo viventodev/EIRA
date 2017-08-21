@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Level Mapping"
+    id="5c152913"
+    documentation="A mapping between specific data elements (or data values).&#xA;&#xA;Source: ISO/DIS 25964-2&#xA;https://www.iso.org/standard/53658.html">
+  <properties
+      key="ID"
+      value="ABB180"/>
+  <properties
+      key="dct:type"
+      value="eira:Data-levelMapping"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

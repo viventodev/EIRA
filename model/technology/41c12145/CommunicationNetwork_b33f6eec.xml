@@ -1,0 +1,25 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network"
+    id="b33f6eec"
+    documentation="Transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, by radio, by optical or by other electromagnetic means, including satellite networks, fixed (circuit- and packet- switched, including Internet) and mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed.&#xA;&#xA;Source: DIRECTIVE 2002/21/EC on a common regulatory framework for electronic communications networks and services&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0021&amp;from=EN ">
+  <properties
+      key="ID"
+      value="ABB92"/>
+  <properties
+      key="dct:type"
+      value="eira:Network"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:CommunicationNetwork>

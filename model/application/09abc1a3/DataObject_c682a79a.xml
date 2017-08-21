@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data"
+    id="c682a79a"
+    documentation="Data is facts represented as text, numbers, graphics, images, sound, or video. Data is the raw material used to represent information, or from which information can be derived. &#xA;This ABB is a key interoperability enabler (*) enabling for sharing/PROVISIONING and reusing/CONSUMING Data.&#xA;&#xA;Based on Data Management Body Of Knowledge (DAMA DM_BOK) First edition&#xA;http://www.dama.org &#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015  establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector">
+  <properties
+      key="ID"
+      value="ABB22"/>
+  <properties
+      key="dct:type"
+      value="eira:Data"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set Catalogue"
+    id="5dbe8d57"
+    documentation="A collection of datasets.  &#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING Data.&#xA;&#xA;Based on W3C&#xA;http://www.w3.org/TR/vocab-dcat/#class-catalog &#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB24"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSetCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

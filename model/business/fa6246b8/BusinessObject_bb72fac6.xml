@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rule"
+    id="bb72fac6"
+    documentation="Representation of the relationships between the inputs, controls, outputs, mechanisms and resources used by the activities performed in a business process.&#xA;&#xA;Based on TOGAF definitions.&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/&#xA;">
+  <properties
+      key="ID"
+      value="ABB16"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessRule"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

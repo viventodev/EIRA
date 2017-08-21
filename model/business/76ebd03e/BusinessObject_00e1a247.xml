@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Implementation Approach"
+    id="00e1a247"
+    documentation="The delegation mode (centralised or delegated) adopted by organization enablers to implement a public policy. &#xA;&#xA;Based on Hill, M. and Hupe, P, Implementing Public Policy: Governance in Theory and in Practice, SAGE  Publications Ltd 2002  &#xA;">
+  <properties
+      key="ID"
+      value="ABB111"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyDevelopmentApproach"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

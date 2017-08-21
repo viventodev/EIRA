@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Entity"
+    id="7ab49d4d"
+    documentation="A classification of objects found in the real world described by the Noun part of speech – persons, places, things, concepts, and events – of interest to the enterprise.&#xA;&#xA;Source: DAMA DM_BOK&#xA;http://www.dama.org&#xA;">
+  <properties
+      key="ID"
+      value="ABB20"/>
+  <properties
+      key="dct:type"
+      value="eira:DataEntity"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

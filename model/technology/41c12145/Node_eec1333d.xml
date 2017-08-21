@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Facility"
+    id="eec1333d"
+    documentation="The equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a building.&#xA;&#xA;Based on DIGIT C Infrastructure Services Provision&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;">
+  <properties
+      key="ID"
+      value="ABB191"/>
+  <properties
+      key="dct:type"
+      value="eira:HostingFacility"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="secure_access"
+      value="[ Yes | No ]"/>
+  <properties
+      key="processing"
+      value="[ Yes | No ]"/>
+  <properties
+      key="storage"
+      value="[ Yes | No ]"/>
+</archimate:Node>

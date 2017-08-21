@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fedbbf63"
+    documentation="An [Organisational Interoperability Specification] defines the interoperability aspects for a [Business Information Exchange]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3e30eb08.xml#3e30eb08"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_e8ba4e86.xml#e8ba4e86"/>
+</archimate:AssociationRelationship>

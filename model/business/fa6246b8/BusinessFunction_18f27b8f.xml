@@ -1,0 +1,26 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Capability"
+    id="18f27b8f"
+    documentation="A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. &#xA;Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xA;&#xA;Based on TOGAF definition and description of business capability.&#xA;https://www2.opengroup.org/ogsys/catalog/g161">
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessCapability"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:owner"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:BusinessFunction>

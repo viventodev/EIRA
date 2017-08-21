@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Policy"
+    id="e253a78a"
+    documentation="Principles, rules, and guidelines formulated or adopted by an organization to reach its long-term goals and typically published in a booklet or other form that is widely accessible. Policies and procedures are designed to influence and determine all major decisions and actions, and all activities take place within the boundaries set by them. &#xA;&#xA;Based on BusinessDictionary.com definition of Policies and Procedures&#xA;http://www.businessdictionary.com/definition/policies-and-procedures.html&#xA;">
+  <properties
+      key="ID"
+      value="ABB18"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

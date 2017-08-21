@@ -1,0 +1,18 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Provider"
+    id="7bd1db6c"
+    documentation="Any natural or legal person or public entity or group of such persons and/or bodies which offers the execution of public services.&#xA;&#xA;Based on IATE definition (definition of service producer, entry Economics, Taxation [Council])&#xA;http://iate.europa.eu/">
+  <properties
+      key="ID"
+      value="ABB174"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceProvider"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:unit_in_DG"/>
+</archimate:BusinessRole>

@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schema Level Mapping"
+    id="b328ae04"
+    documentation="A mapping between related classes and properties. &#xA;&#xA;Source: ISO/DIS 25964-2&#xA;https://www.iso.org/standard/53658.html">
+  <properties
+      key="ID"
+      value="ABB212"/>
+  <properties
+      key="dct:type"
+      value="eira:Schema-levelMapping"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

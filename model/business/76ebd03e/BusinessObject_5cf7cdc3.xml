@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Resource"
+    id="5cf7cdc3"
+    documentation="A stock or supply of money.&#xA;&#xA;Based on the Oxford Dictionary&#xA;https://en.oxforddictionaries.com/definition/resource&#xA;">
+  <properties
+      key="ID"
+      value="ABB116"/>
+  <properties
+      key="dct:type"
+      value="eira:FinancialResource"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

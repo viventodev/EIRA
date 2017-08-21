@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set"
+    id="e3d8adda"
+    documentation="A collection of data, published by one or more agents, and available for access or download in one or more formats.&#xA;&#xA;Base on W3C&#xA;http://www.w3.org/TR/vocab-dcat/#class-dataset&#xA;&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB23"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSet"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

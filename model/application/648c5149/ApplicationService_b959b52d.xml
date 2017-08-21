@@ -1,0 +1,27 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="b959b52d"
+    documentation="Represents an explicitly defined shared application behavior.&#xA;&#xA;Based on ArchiMate v3&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html&#xA;">
+  <properties
+      key="ID"
+      value="ABB187"/>
+  <properties
+      key="dct:type"
+      value="eira:ApplicationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+  <properties
+      key="dct:references"/>
+</archimate:ApplicationService>

@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Hosting Facility"
+    id="e66cab25"
+    documentation="The equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a building, which is owned by a third party and shared between organizations (e.g. cloud services).&#xA;&#xA;Based on DIGIT C Infrastructure Services Provision&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB193"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicHostingFacility"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:secure_access"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:processing"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:storage"
+      value="[ Yes | No ]"/>
+</archimate:Node>

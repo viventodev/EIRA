@@ -1,0 +1,16 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Interface"
+    id="fa5d9d67"
+    documentation="A boundary set of means enabling the exchange of data between an individual and a service.&#xA;This ABB is a key interoperability enabler (*) for assessing compatible interfaces.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;">
+  <properties
+      key="ID"
+      value="ABB37"/>
+  <properties
+      key="dct:type"
+      value="eira:HumanInterface"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationInterface>

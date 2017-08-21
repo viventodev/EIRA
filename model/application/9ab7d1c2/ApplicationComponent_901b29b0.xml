@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Translation Component"
+    id="901b29b0"
+    documentation="Implements the functionality of serving any current or future Digital Service Infrastructure (DSI) requiring cross-lingual functionality. The main functionality is automated translation of text, metadata and concept classes or nomenclatures.&#xA;&#xA;Based on CEF Automated Translation&#xA;https://ec.europa.eu/digital-single-market/en/news/tools-and-resources-cef-automated-translation">
+  <properties
+      key="ID"
+      value="ABB62"/>
+  <properties
+      key="dct:type"
+      value="eira:MachineTranslationComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Publication Service"
+    id="db5a130d"
+    documentation="Shares the functionality of making data available for common use.&#xA;&#xA;Based on DAMA&#xA;http://www.dama.org/  &#xA;">
+  <properties
+      key="ID"
+      value="ABB215"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPublicationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

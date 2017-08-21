@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange Component"
+    id="e3993b25"
+    documentation="Implements the functionality that enables the secure exchange of messages, records, forms and other kinds of data between different ICT systems. This includes data routing, except endpoint discovery. &#xA;&#xA;Based on EIFv2&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB64"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExchangeComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data"
+    id="64253fad"
+    documentation="The authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data.&#xA;&#xA;Source: DAMA DM_BOK &#xA;http://www.dama.org&#xA;">
+  <properties
+      key="ID"
+      value="ABB181"/>
+  <properties
+      key="dct:type"
+      value="eira:MasterData"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

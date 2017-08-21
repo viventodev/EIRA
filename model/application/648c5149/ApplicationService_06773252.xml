@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Service"
+    id="06773252"
+    documentation="Shares the functionality of verifying that several solutions can interoperate at one or more layers of the interoperability stack, while conforming to one or more specifications. This type of testing is executed by operating SUTs (System Under Test) and capturing their exchanges.&#xA;The logistics of interoperability testing is usually more costly (time, coordination, interoperability), and interoperability testing is no substitute for a conformance test suite. Experience shows that interoperability testing is more successful and less costly when conformance of implementations has been tested first.&#xA;&#xA;Based on CEN/CENELC GITB &#xA;https://www.cen.eu/work/areas/ict/ebusiness/pages/ws-gitb.aspx &#xA;">
+  <properties
+      key="ID"
+      value="ABB128"/>
+  <properties
+      key="dct:type"
+      value="eira:TestService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

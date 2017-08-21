@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management Component"
+    id="40d84c6f"
+    documentation="Implements the functionalities of i) managing service consumption (i.e. consumers) and ii) controlling service consumption by partners (i.e. consumers) in order to ensure scalability and availability. It enables the management of IES' interoperability agreements&#xA;&#xA;Source: ISA2 – EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB141"/>
+  <properties
+      key="dct:type"
+      value="eira:PartnerManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

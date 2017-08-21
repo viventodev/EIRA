@@ -1,0 +1,16 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base Registry"
+    id="33cc6768"
+    documentation="A trusted authentic source of information under the control of an appointed public administration or organisation appointed by government.&#xA;&#xA;According to the European Interoperability Framework, base registries are: “reliable sources of basic information on items such as persons, companies, vehicles, licenses, buildings, locations and roads”&#xA;and “are authentic and authoritative and form, separately or in combination, the cornerstone of public services”.&#xA;&#xA;Source: the New EIF&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF &#xA;">
+  <properties
+      key="ID"
+      value="ABB225"/>
+  <properties
+      key="dct:type"
+      value="eira:BaseRegistry"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

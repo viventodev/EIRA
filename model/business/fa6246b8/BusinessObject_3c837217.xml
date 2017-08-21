@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Framework"
+    id="3c837217"
+    documentation="An agreed approach to interoperability for organisations that wish to work together towards the joint delivery of public services. Within its scope of applicability, it specifies a set of common elements such as vocabulary, concepts, principles, policies, guidelines, recommendations, standards, specifications and practices.&#xA;&#xA;Source: ISA2, EIFv2&#xA;https://ec.europa.eu/isa2/isa2_en">
+  <properties
+      key="ID"
+      value="ABB206"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityFramework"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

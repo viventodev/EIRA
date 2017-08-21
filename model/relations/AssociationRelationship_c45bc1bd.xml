@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c45bc1bd"
+    documentation="A [Technical Interoperability Specification] defines the interoperability aspects for a [Human Interface]">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_fa5d9d67.xml#fa5d9d67"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_083ad8d6.xml#083ad8d6"/>
+</archimate:AssociationRelationship>

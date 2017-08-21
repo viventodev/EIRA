@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Procedure"
+    id="5e404822"
+    documentation="The specific methods employed to express organisational policies in action in day-to-day operations of the organization. Together, policies and procedures ensure that a point of view held by the governing body of an organization is translated into steps that result in an outcome compatible with that view.&#xA;&#xA;Based on BusinessDictionary.com definition of Policies and Procedures&#xA;http://www.businessdictionary.com/definition/policies-and-procedures.html&#xA;">
+  <properties
+      key="ID"
+      value="ABB207"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalProcedure"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

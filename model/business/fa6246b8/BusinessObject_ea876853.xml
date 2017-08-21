@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security and Privacy Policy"
+    id="ea876853"
+    documentation="The set of rules and practices that regulate how sensitive information, individual's information and other resources are managed, protected and distributed.&#xA;&#xA;Based on IATE definitions of &quot;security policy&quot; and Black's Dictionary of Law definition of &quot;privacy&quot;.&#xA;http://iate.europa.eu/ &#xA;http://thelawdictionary.org/privacy/ &#xA;">
+  <properties
+      key="ID"
+      value="ABB222"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

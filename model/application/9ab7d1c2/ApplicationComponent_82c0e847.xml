@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forms Management Component"
+    id="82c0e847"
+    documentation="Implements the functionalities of i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB77"/>
+  <properties
+      key="dct:type"
+      value="eira:FormsManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

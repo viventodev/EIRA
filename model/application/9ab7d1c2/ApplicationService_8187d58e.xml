@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration and Monitoring Service"
+    id="8187d58e"
+    documentation="Shares the functionalities of i) administration of services and/or systems and ii) monitoring of services and/or systems with the goal of ensuring that these solutions run in an efficient and effective way.&#xA;&#xA;Source: ISA2 – EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB137"/>
+  <properties
+      key="dct:type"
+      value="eira:AdministrationAndMonitoringService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="90aa45a1-0d06-4fb9-819f-d18651e2af23"
+    documentation="The goal of [Achieving Legal Interoperability] is assessed by the use of [Public Policy Formulation and Implementation Instruments] that ensure compatible legal/juridical certainty.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1eb97ddc.xml#1eb97ddc"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_08e15794.xml#08e15794"/>
+</archimate:RealizationRelationship>

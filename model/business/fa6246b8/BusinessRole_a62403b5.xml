@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Delivery Agent"
+    id="a62403b5"
+    documentation="Any agent that delivers or has the power to deliver a public service. This includes people, organisations and groups.&#xA;A Public Service Delivery Agent delivers a public service on behalf of a Service Providers. An example of this would be pharmacies that deliver a service 'on the behalf of' the Ministry of Health. In this case the pharmacies would be captured as a Service Delivery Agent whereas the Service Provider would be the Ministry of Health.&#xA;&#xA;Based on definition of Agent class in ISA2 Core Vocabularies&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf">
+  <properties
+      key="ID"
+      value="ABB173"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceDeliveryAgent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessRole>

@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management Component"
+    id="e39fe0cb"
+    documentation="Implements the functionalities of allowing users to make use of i) IT services, ii) data, and/or iii) other assets. Access management helps to protect the confidentiality, integrity and availability of assets by ensuring that only authorised users are able to access or modify the assets.&#xA;&#xA;Based on ITIL v3&#xA;https://www.axelos.com/Corporate/media/Files/Glossaries/AXELOS-Common-Glossary.pdf &#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB70"/>
+  <properties
+      key="dct:type"
+      value="eira:AccessManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

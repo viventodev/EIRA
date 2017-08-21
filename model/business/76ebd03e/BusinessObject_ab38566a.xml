@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Enabler"
+    id="ab38566a"
+    documentation="An organisation, person, object or event that makes it possible to formulate or implement the a public policy&#xA;&#xA;Based on Hill, M. and Hupe, P, Implementing Public Policy: Governance in Theory and in Practice, SAGE  Publications Ltd 2002  &#xA;">
+  <properties
+      key="ID"
+      value="ABB166"/>
+  <properties
+      key="dct:type"
+      value="eira:OperationalEnabler"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

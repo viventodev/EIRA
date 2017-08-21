@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Component"
+    id="29ce9c5f"
+    documentation="Implements the functionality of allowing a structured and modular approach to implement test automation.&#xA;&#xA;Based on ISTQB&#xA;http://glossary.istqb.org/search/test&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB129"/>
+  <properties
+      key="dct:type"
+      value="eira:TestComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

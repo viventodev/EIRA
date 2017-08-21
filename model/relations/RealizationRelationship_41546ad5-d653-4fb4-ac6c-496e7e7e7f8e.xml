@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="41546ad5-d653-4fb4-ac6c-496e7e7e7f8e"
+    documentation="The goal of [Achieving Organisational Interoperability] is assessed by the use of the [Exchange of Business Information] that ensure compatible interaction.">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_e8ba4e86.xml#e8ba4e86"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_eeb5dcb4.xml#eeb5dcb4"/>
+</archimate:RealizationRelationship>

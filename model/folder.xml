@@ -1,0 +1,69 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA v2.0.0"
+    id="3d54d4b1"
+    purpose="This  file provides the ArchiMate model of the European Interoperability Reference Architecture (EIRA). The EIRA has been developed in the context of Action of the Interoperability Solutions for European Public Administrations (ISA) Programme. The EIRA is a reference architecture focused on the interoperability of digital public services. It is composed of the most important architecture building blocks needed to promote cross-border and cross-sector interactions between public administrations. It is based on the Service Oriented Architecture style and uses ArchiMate as a modelling notation. The EIRA implements the New European Interoperability Framework (EIF) . &#xA;&#xA;The latest release of the EIRA is available on Joinup: https://joinup.ec.europa.eu/asset/eia/description &#xA;The latest release of the new EIF is available here: https://ec.europa.eu/isa2/eif_en"
+    version="4.0.0">
+  <properties
+      key="eira:modelType"/>
+  <properties
+      key="ID"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="dcat:landingPage"/>
+  <properties
+      key="adms:status"
+      value="[completed | deprecated | underDevelopment | withdrawn]"/>
+  <properties
+      key="eira:solution_owner"/>
+  <properties
+      key="eira:contact_person"/>
+  <properties
+      key="eira:reusability"/>
+  <properties
+      key="eira:reuse_status"/>
+  <properties
+      key="eira:state"/>
+  <properties
+      key="eira:operational_date"/>
+  <properties
+      key="eira:actual_policy_coverage"/>
+  <properties
+      key="eira:policy_area_extension"/>
+  <properties
+      key="eira:importance_for_the_functioning_of_the_EU"/>
+  <properties
+      key="eira:confidentiality_level"/>
+  <properties
+      key="eira:integrity_and_availability_level"/>
+  <properties
+      key="eira:security_requirements"/>
+  <properties
+      key="eira:scalability"/>
+  <properties
+      key="eira:published_in_catalogue_or_software_forge"/>
+  <properties
+      key="eira:rationalisation_domain"/>
+  <properties
+      key="eira:version"
+      value="EIRA v2.0.0"/>
+  <properties
+      key="eira:GovIS_ID"/>
+  <properties
+      key="eira:iop_score_governance"/>
+  <properties
+      key="eira:iop_score_sw_architecture"/>
+  <properties
+      key="eira:iop_score_h2m"/>
+  <properties
+      key="eira:iop_score_m2m"/>
+  <properties
+      key="eira:iop_score_overall"/>
+</archimate:ArchimateModel>

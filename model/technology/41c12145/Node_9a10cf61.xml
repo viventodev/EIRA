@@ -1,0 +1,25 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Hosting Facility"
+    id="9a10cf61"
+    documentation="A Hosting Facility, meaning the equipment supporting the hosting of Interoperable European Solutions and their components, usually embodied in a build-in, which is owned by or dedicated to one organization (e.g. data centre or private cloud).&#xA;&#xA;Based on DIGIT C Infrastructure Services Provision&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm ">
+  <properties
+      key="ID"
+      value="ABB192"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivateHostingFacility"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="secure_access"
+      value="[ Yes | No ]"/>
+  <properties
+      key="processing"
+      value="[ Yes | No ]"/>
+  <properties
+      key="storage"
+      value="[ Yes | No ]"/>
+</archimate:Node>

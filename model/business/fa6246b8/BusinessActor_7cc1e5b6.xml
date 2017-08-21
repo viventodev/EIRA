@@ -1,0 +1,16 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="7cc1e5b6"
+    documentation="A public administration unit or any entity acting on their behalf, or EU institutions or bodies (The New EIF).&#xA;&#xA;Organisations here [in new EIF] means public administration units or any entity acting on their behalf, or EU institutions or bodies.&#xA;Public Organization: Any organization that is defined as being part of the public sector by a legal framework at any level.&#xA;&#xA;Based on the New EIF and the ISA2 Core Vocabularies&#xA;http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;https://joinup.ec.europa.eu/asset/cpov/asset_release/core-public-organisation-vocabulary-v100#download-links">
+  <properties
+      key="ID"
+      value="ABB7"/>
+  <properties
+      key="dct:type"
+      value="eira:Organisation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

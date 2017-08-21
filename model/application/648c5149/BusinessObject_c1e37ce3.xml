@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Procedure"
+    id="c1e37ce3"
+    documentation="Defines the process of operating a solution, how the procedures are implemented and the rules for operating it.&#xA;&#xA;Source: ISA2 – EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB126"/>
+  <properties
+      key="dct:type"
+      value="eira:OperationalProcedure"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

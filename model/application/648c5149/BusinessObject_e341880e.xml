@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Specification"
+    id="e341880e"
+    documentation="A specification contained in a document which lays down the characteristics required of a product such as levels of quality, performance, safety or dimensions, including the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures.&#xA;&#xA;Source: Directive 98/34/EC&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1998L0034:20070101:EN:PDF">
+  <properties
+      key="ID"
+      value="ABB125"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalSpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

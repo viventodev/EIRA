@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Data Model"
+    id="eaf26abb"
+    documentation="A context-neutral data model that captures the fundamental characteristics of an entity or a core set of entities.&#xA;&#xA;Based on Core Vocabularies Handbook&#xA;https://joinup.ec.europa.eu/site/core_vocabularies/Core_Vocabularies_user_handbook/ ">
+  <properties
+      key="ID"
+      value="ABB194"/>
+  <properties
+      key="dct:type"
+      value="eira:CoreDataModel"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

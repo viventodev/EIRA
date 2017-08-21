@@ -1,0 +1,16 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Networking Service"
+    id="338eb0b9"
+    documentation="Shares the functionalities provided by a network provider which is the combination of transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, by radio, by optical or by other electromagnetic means, including satellite networks, fixed (circuit- and packet- switched, including Internet) and mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed.&#xA;&#xA;Based on DIRECTIVE 2002/21/EC on a common regulatory framework for electronic communications networks and services&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0021&amp;from=EN &#xA;">
+  <properties
+      key="ID"
+      value="ABB150"/>
+  <properties
+      key="dct:type"
+      value="eira:NetworkingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

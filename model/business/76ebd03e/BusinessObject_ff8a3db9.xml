@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-binding Instrument"
+    id="ff8a3db9"
+    documentation="Legal means, involving no obligation, which are available to the European institutions to carry out their tasks. The European non-binding, declaratory instruments listed in Article 288 of the Treaty on the Functioning of the European Union are recommendations and opinions:&#xA;- recommendations are non-mandatory acts issued by the European Commission, the Council of the European Union, or the European Central Bank which suggest a certain form of conduct to those to whom they are addressed without imposing any legal obligations.&#xA;- opinions are non-binding legal acts adopted by the European institutions which do not bind those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex and EuroVoc&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html?locale=en&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F2927&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F439743&amp;language=en&amp;view=pt&amp;ifacelang=en&#xA;http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F6284&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F438412&amp;language=en&amp;view=pt&amp;ifacelang=en&#xA;">
+  <properties
+      key="ID"
+      value="ABB113"/>
+  <properties
+      key="dct:type"
+      value="eira:Non-bindingInstrument"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+</archimate:BusinessObject>

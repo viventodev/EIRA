@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Validation Component"
+    id="ea5bedf1"
+    documentation="Implements the functionality of referring to any activity aimed at verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. In statistics, imputation is the process of replacing missing data with substituted values.&#xA;&#xA;Based on Eurostat Data Validation&#xA;http://ec.europa.eu/eurostat/data/data-validation &#xA;">
+  <properties
+      key="ID"
+      value="ABB63"/>
+  <properties
+      key="dct:type"
+      value="eira:DataValidationComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Validation Service"
+    id="7411635a"
+    documentation="Shares the functionality of referring to any activity aimed at verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. &#xA;&#xA;Based on Eurostat Data Validation&#xA;http://ec.europa.eu/eurostat/data/data-validation &#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB42"/>
+  <properties
+      key="dct:type"
+      value="eira:DataValidationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

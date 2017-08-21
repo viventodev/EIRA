@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Binding Instrument"
+    id="e75f0755"
+    documentation="Legal means, involving an obligation, which are available to the European institutions to carry out their tasks. The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are:&#xA;- regulations: these are binding in their entirety and directly applicable in all EU countries;&#xA;- directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation;&#xA;- decisions: these are fully binding on those to whom they are addressed.&#xA;&#xA;Based on EUR-Lex&#xA;http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html&#xA;">
+  <properties
+      key="ID"
+      value="ABB17"/>
+  <properties
+      key="dct:type"
+      value="eira:BindingInstrument"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+</archimate:BusinessObject>

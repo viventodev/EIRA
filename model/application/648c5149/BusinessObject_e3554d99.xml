@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Scenario"
+    id="e3554d99"
+    documentation="A document specifying a sequence of actions for the execution of a test. Also known as test script or manual test script.&#xA;&#xA;Based on ISTQB&#xA;http://glossary.istqb.org/search/test&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB130"/>
+  <properties
+      key="dct:type"
+      value="eira:TestScenario"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

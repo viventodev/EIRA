@@ -1,0 +1,16 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Service"
+    id="7db3adb0"
+    documentation="Shares the functionalities of a hosting provider, typically a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites.&#xA;&#xA;Based on DIGIT C Infrastructure Services Provision&#xA;http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;">
+  <properties
+      key="ID"
+      value="ABB151"/>
+  <properties
+      key="dct:type"
+      value="eira:HostingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

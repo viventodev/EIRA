@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence Component"
+    id="54165eba"
+    documentation="Implements the functionalities that include i) the applications, ii) infrastructure and tools, and/or iii) best practices that enable access to and analysis of information to improve and optimize decisions and performance.&#xA;&#xA;Based on Gartner&#xA;http://www.gartner.com/it-glossary/business-intelligence-bi/ &#xA;">
+  <properties
+      key="ID"
+      value="ABB66"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessIntelligenceComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

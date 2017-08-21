@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Reporting Service"
+    id="f442b6ed"
+    documentation="Shares the functionality of providing detailed reports using unified views of enterprise data. &#xA;This includes, but is not limited to, financial statements, financial information, non-financial information and regulatory filings such as annual and quarterly financial statements. &#xA;&#xA;Based on XBRL (eXtensible Business Reporting Language) Specification&#xA;http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html &#xA;">
+  <properties
+      key="ID"
+      value="ABB47"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessReportingService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

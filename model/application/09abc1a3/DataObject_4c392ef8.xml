@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Data"
+    id="4c392ef8"
+    documentation="Data that covers the business information related to business transactions and information exchanges .&#xA;&#xA;Based on DAMA DM_BOK&#xA;http://www.dama.org&#xA;">
+  <properties
+      key="ID"
+      value="ABB185"/>
+  <properties
+      key="dct:type"
+      value="eira:TransactionalData"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+</archimate:DataObject>

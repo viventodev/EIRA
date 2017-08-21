@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Management Service"
+    id="7ea18383"
+    documentation="Shares the functionalities responsible for the efficient and systematic control of the i) creation, ii) receipt, iii) maintenance, iv) use and v) disposal of records, including processes for capturing and maintaining evidence of, and information about, business activities and transactions in the form of records. ISO 15489-1:2001 defines records as &quot;information created, received, and maintained as evidence and information by an organization or person, in pursuance of legal obligations or in the transaction of business&quot;.&#xA;&#xA;Based on ISO 15489-1:2016 &#xA;https://www.iso.org/standard/62542.html ">
+  <properties
+      key="ID"
+      value="ABB50"/>
+  <properties
+      key="dct:type"
+      value="eira:RecordManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

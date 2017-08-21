@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Character Encoding Scheme"
+    id="c6972f17"
+    documentation="Digital Encoding of Characters.&#xA; &#xA;To be of any use in computers, in computer communications and in particular on the World Wide Web, characters must be encoded. In fact, much of the information processed by computers over the last few decades has been encoded text, exceptions being images, audio, video and numeric data. To achieve text encoding, a large variety of character encodings have been devised. Character encodings can loosely be explained as mappings between the character sequences that users manipulate and the sequences of bits that computers manipulate.&#xA;&#xA;Source: W3C&#xA;https://www.w3.org/TR/2003/WD-charmod-20030822/">
+  <properties
+      key="ID"
+      value="ABB179"/>
+  <properties
+      key="dct:type"
+      value="eira:CharacterEncodingScheme"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

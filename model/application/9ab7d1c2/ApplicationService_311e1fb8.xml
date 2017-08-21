@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Registration Service"
+    id="311e1fb8"
+    documentation="Shares the functionality of registering the system service within a catalogue to be discovered by other services.&#xA;&#xA;Source ISA2 - EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB189"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceRegistrationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Management Service"
+    id="6542e895"
+    documentation="Shares the functionalities for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata.&#xA;&#xA;Based on DAMA&#xA;http://www.dama.org/ ">
+  <properties
+      key="ID"
+      value="ABB52"/>
+  <properties
+      key="dct:type"
+      value="eira:MetadataManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

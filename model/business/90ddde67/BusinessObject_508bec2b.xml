@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Model"
+    id="508bec2b"
+    documentation="A collection of entities, their properties and the relationships among them, which aims at formally representing a domain, a concept or a real-world thing.&#xA;&#xA;Source: ISA2 - SEMIC Action&#xA;https://joinup.ec.europa.eu/sites/default/files/methodology_and_tools_for_metadata_governance_and_management_for_eu_institutions.pdf &#xA;">
+  <properties
+      key="ID"
+      value="ABB26"/>
+  <properties
+      key="dct:type"
+      value="eira:DataModel"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

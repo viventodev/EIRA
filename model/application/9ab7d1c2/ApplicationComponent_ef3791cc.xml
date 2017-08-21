@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Component"
+    id="ef3791cc"
+    documentation="Implements the functionality of the categorisation of information resources so that they can be stored, published and reused in multiple contexts.&#xA;&#xA;Based on DAMA&#xA;http://www.dama.org/ &#xA;">
+  <properties
+      key="ID"
+      value="ABB75"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentManagementComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

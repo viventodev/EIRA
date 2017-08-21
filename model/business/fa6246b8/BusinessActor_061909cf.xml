@@ -1,0 +1,16 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business"
+    id="061909cf"
+    documentation="Employment, occupation, profession, or commercial activity engaged in for gain or livelihood. Activity or enterprise for gain, benefit, advantage or livelihood. Enterprise in which person engaged shows willingness to invest time and capital on future outcome.&#xA;&#xA;Source: IATE (definition of business, entry Environment[CdT])&#xA;http://iate.europa.eu/&#xA;">
+  <properties
+      key="ID"
+      value="ABB169"/>
+  <properties
+      key="dct:type"
+      value="eira:Business"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

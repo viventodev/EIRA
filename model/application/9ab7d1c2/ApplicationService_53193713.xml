@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lifecycle Management Service"
+    id="53193713"
+    documentation="Shares the functionalities of emphasising the importance of coordination and control across the various Functions, Processes, and Systems necessary to manage the full Lifecycle of IT Services. The Service Management Lifecycle approach considers the Strategy, Design, Transition, Operation and Continuous Improvement of IT Services.&#xA;&#xA;Based on ITIL® V3 Glossary v01, 30 May 2007&#xA;https://www.axelos.com/corporate/media/files/glossaries/itil_2011_glossary_gb-v1-0.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB138"/>
+  <properties
+      key="dct:type"
+      value="eira:LifecycleManagementService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

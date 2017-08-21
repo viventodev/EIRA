@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audiovisual Service"
+    id="67d0805f"
+    documentation="Shares the functionality of broadcasting of “audio and video” content over the internet or satellite.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB54"/>
+  <properties
+      key="dct:type"
+      value="eira:AudiovisualService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

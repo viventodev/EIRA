@@ -1,0 +1,16 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Delivery Model"
+    id="a549c619"
+    documentation="The way in which a public service is provided to its consumer. &#xA;&#xA;Based on the definitions in Innovation Policy Platform (World Bank and OECD)&#xA;https://www.innovationpolicyplatform.org/printpdf/12406&#xA;">
+  <properties
+      key="ID"
+      value="ABB15"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceDeliveryModel"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessInterface>

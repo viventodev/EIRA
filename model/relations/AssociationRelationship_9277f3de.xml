@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has"
+    id="9277f3de"
+    documentation="[Data] has a [Representation]&#xA;">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_c682a79a.xml#c682a79a"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_374e924e.xml#374e924e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation Catalogue"
+    id="2d6f43d3"
+    documentation="Inventory of legal documents. &#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING LEGAL documents.&#xA;&#xA;Based on IATE (definition of catalogue, entry Documentation [COM])&#xA;http://iate.europa.eu/ &#xA;&#x9;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;">
+  <properties
+      key="ID"
+      value="ABB165"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

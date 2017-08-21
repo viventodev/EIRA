@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syntax Encoding Scheme"
+    id="f2bd293b"
+    documentation="A set of strings and an associated set of rules that describe a mapping between that set of strings and a set of resources. The mapping rules may define how the string is structured or they may simply enumerate all the strings and the corresponding resources.&#xA;&#xA;Source: W3C&#xA;http://www.w3.org/2000/01/rdf-schema#Datatype">
+  <properties
+      key="ID"
+      value="ABB184"/>
+  <properties
+      key="dct:type"
+      value="eira:SyntaxEncodingScheme"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Specification"
+    id="3e30eb08"
+    documentation="This aspect of interoperability is concerned with how organisations, such as public administrations in different Member States, cooperate to achieve their mutually agreed goals. In practice, organisational interoperability implies integrating business processes and related data exchange. Organisational interoperability also aims to meet the requirements of the user community by making services available, easily identifiable, accessible and user-focused. &#xA;&#xA;Organisation interoperability specifications support organisational interoperability by addressing the core organizational interoperability background for solutions.&#xA;&#xA;Source: How does the EIRA support interoperability?&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf &#xA;">
+  <properties
+      key="ID"
+      value="ABB176"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

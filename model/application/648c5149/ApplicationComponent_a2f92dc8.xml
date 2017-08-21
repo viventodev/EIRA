@@ -1,0 +1,68 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable European Solution"
+    id="a2f92dc8"
+    documentation="A solution, developed by Public Administrations that facilitate the delivery of electronic Public Services and cross-border exchange of information between Public Administrations (or Citizens) in support to the implementation and advancement of EU, national or local Public Policies.&#xA;&#xA;Based on ISA TES definition&#xA;https://joinup.ec.europa.eu/node/149889 &#xA;">
+  <properties
+      key="ID"
+      value="ABB60"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableEuropeanSolution"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:state"
+      value="[ Study | Development | Pilot | Operational | Phased out ]"/>
+  <properties
+      key="eira:operational_date"/>
+  <properties
+      key="eira:policy_area_extension"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:actual_policy_coverage"
+      value="[ Sectoral | Multi-sectoral | Cross-sectoral ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:importance_for_the_functioning_of_the_EU"
+      value="[ Critical | Essential | Necessary ]"/>
+  <properties
+      key="eira:confidentiality_level"
+      value="[ Public | Limited ]"/>
+  <properties
+      key="eira:integrity_and_availability_level"
+      value="[ Moderate | Critical | Strategic ]"/>
+  <properties
+      key="eira:security_requirements"
+      value="[ Standard | Specific ]"/>
+  <properties
+      key="eira:scalability"
+      value="[ High | Medium | Low ]"/>
+  <properties
+      key="eira:rationalisation_domain"
+      value="[ Asset management | Audit | External communication | Internal communication | Document management | Financial management | Grant management | Human resources | IT | Legislative lifecycle | Procurement | Program management | Strategic planning and programming | Statistics management | Case management | Trans-European Systems and Infrastructure management | Crisis management | Structured Data Exchange Management | Committee and expert group meeting management | None of them ]*"/>
+  <properties
+      key="eira:published_in_catalogue_or_software_forge"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:GovIS_ID"/>
+  <properties
+      key="eira:iop_score_governance"/>
+  <properties
+      key="eira:iop_score_sw_architecture"/>
+  <properties
+      key="eira:iop_score_h2m"/>
+  <properties
+      key="eira:iop_score_m2m"/>
+  <properties
+      key="eira:iop_score_overall"/>
+</archimate:ApplicationComponent>

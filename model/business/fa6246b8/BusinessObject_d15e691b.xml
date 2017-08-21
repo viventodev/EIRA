@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Strategy"
+    id="d15e691b"
+    documentation="The overarching strategic plan in the area of cross-border interoperability, developed by the European Commission in conjunction with Member State Chief Information Officers (CIOs).&#xA;&#xA;Source: ISA2 &#xA;https://ec.europa.eu/isa2/actions/continuously-updating-european-interoperability-strategy_en &#xA;">
+  <properties
+      key="ID"
+      value="ABB208"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityStrategy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

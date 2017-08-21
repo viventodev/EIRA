@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging Component"
+    id="40603280"
+    documentation="Implements the functionality of tracing all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time.&#xA;Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred.&#xA;&#xA;Based on ISACA&#xA;https://www.isaca.org">
+  <properties
+      key="ID"
+      value="AB224"/>
+  <properties
+      key="dct:type"
+      value="eira:LoggingComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

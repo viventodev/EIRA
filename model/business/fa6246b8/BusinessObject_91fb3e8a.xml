@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Skill"
+    id="91fb3e8a"
+    documentation="A set of skills that help a person to plan, prioritize, and achieve his or her goals, valued in an organisation.&#xA;&#xA;Based on the definitions of skill and organisational in the Oxford dictionary.&#xA;https://en.oxforddictionaries.com/definition/organization &#xA;https://en.oxforddictionaries.com/definition/skill &#xA;">
+  <properties
+      key="ID"
+      value="ABB219"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalSkill"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

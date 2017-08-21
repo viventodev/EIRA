@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Enabler"
+    id="9649f14a"
+    documentation="That which allows how organisations cooperate to achieve their mutually agreed goals. It can be capabilities, forces, or resources.&#xA;&#xA;Based on the Black's Law Dictionary definition of enablers and the EIRA definition of organisational interoperability.&#xA;https://joinup.ec.europa.eu/asset/eia/document/how-does-eira-support-interoperability&#xA;http://thelawdictionary.org/enablers/&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB171"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilityEnabler"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

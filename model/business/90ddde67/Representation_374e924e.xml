@@ -1,0 +1,16 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representation"
+    id="374e924e"
+    documentation="The perceptible form of the information carried by a business object. If relevant, representations can be classified in various ways; for example, in terms of medium (electronic, paper, audio, etc.) or format (HTML, ASCII, PDF, RTF, etc.). &#xA;This ABB is a key interoperability enabler(*) for assessing compatible interpretations of Data. &#xA;&#xA;Source: ArchiMate® v3&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap08.html &#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xA;">
+  <properties
+      key="ID"
+      value="ABB182"/>
+  <properties
+      key="dct:type"
+      value="eira:Representation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:Representation>

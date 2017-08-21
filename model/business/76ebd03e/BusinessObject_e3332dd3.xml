@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Specification"
+    id="e3332dd3"
+    documentation="Legal interoperability covers the broader environment of laws, policies, procedures and cooperation agreements needed to allow the seamless exchange of information between different organisations, regions and countries.&#xA;&#xA;&#xA;Legal interoperability specifications support interoperability by addressing the core legal interoperability background for solutions.&#xA;&#xA;Source: How does the EIRA support interoperability?&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB175"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

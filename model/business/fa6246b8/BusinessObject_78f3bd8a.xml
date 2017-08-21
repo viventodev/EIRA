@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security and Privacy Framework"
+    id="78f3bd8a"
+    documentation="Conceptual structure made of interlinked items underlying and supporting the management, protection and distribution of sensitive information, individual's information and other resources.&#xA;&#xA;Based on the &quot;framework&quot; definitions of the Black's Law and Oxford dictionaries and on the present EIRA definition of &quot;security and privacy policy&quot;.&#xA;http://thelawdictionary.org/framework/&#xA;https://en.oxforddictionaries.com/definition/framework&#xA;">
+  <properties
+      key="ID"
+      value="ABB223"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityFramework"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

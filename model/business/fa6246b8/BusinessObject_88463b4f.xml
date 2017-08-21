@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Catalogue"
+    id="88463b4f"
+    documentation="A catalogue of public services is a collection of descriptions of active public services that are provided by public administrations at any administrative level (i.e. local, regional, national or pan-European). All public service descriptions published in a catalogue of public services conform to a common data model for representing public services.&#xA;This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING of front-office public services.&#xA;&#xA;Source: ISA2 Core Vocabularies&#xA;https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf&#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.">
+  <properties
+      key="ID"
+      value="ABB124"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceCatalogue"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

@@ -1,0 +1,19 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration"
+    id="252d96d0"
+    documentation="A state, regional or local authority governed by public law or an association formed by one or several such authorities or a private entity mandated by at least one of those authorities or associations to provide public services, when acting under such a mandate.&#xA;&#xA;Source: eIDAS regulation&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG   &#xA;">
+  <properties
+      key="ID"
+      value="ABB172"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministration"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national | Worldwide ]"/>
+</archimate:BusinessActor>

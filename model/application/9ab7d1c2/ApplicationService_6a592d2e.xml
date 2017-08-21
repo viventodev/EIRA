@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Payment Service"
+    id="6a592d2e"
+    documentation="Shares the functionality of executing payment transactions where the consent of the payer to execute a payment transaction is given by means of any telecommunication, digital or IT device.&#xA;&#xA;Source: Directive 2007/64/EC&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0064:EN:NOT &#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB48"/>
+  <properties
+      key="dct:type"
+      value="eira:E-PaymentService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

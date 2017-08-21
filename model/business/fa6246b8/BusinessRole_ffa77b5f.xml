@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Consumer"
+    id="ffa77b5f"
+    documentation="A Public Service Consumer is a Public Administration, Business or Citizen consuming public services. [European Interoperability Framework]&#xA;&#xA;Source: Based on EIF 2.0&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf">
+  <properties
+      key="ID"
+      value="ABB5"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicServiceConsumer"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessRole>

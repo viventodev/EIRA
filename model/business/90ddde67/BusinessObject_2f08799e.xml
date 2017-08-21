@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Specification"
+    id="2f08799e"
+    documentation="Semantic interoperability enables organisations to process information from external sources in a meaningful manner. It ensures that the precise meaning of exchanged information is understood and preserved throughout exchanges between parties. In the context of the EIF, semantic interoperability encompasses the following aspects:&#xA;•&#x9;Semantic interoperability is about the meaning of data elements and the relationship between them. It includes developing vocabulary to describe data exchanges, and ensures that data elements are understood in the same way by communicating parties.&#xA;•&#x9;Syntactic interoperability is about describing the exact format of the information to be exchanged in terms of grammar, format and schemas.&#xA;&#xA;Semantic interoperability specifications support semantic interoperability by addressing the core semantic interoperability background for solutions.&#xA;&#xA;Source: How does the EIRA support interoperability?&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB177"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+</archimate:BusinessObject>

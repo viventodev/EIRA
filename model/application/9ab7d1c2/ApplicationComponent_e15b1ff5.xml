@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration Component"
+    id="e15b1ff5"
+    documentation="Implements the functionalities of i) administration of services and/or systems and ii) monitoring of services and/or systems and iii) the various functions that manages the full lifecycle of solutions, with the goal of ensuring that these services and/or systems run in an efficient and effective way.&#xA;&#xA;Source: ISA2 – EIA Action&#xA;">
+  <properties
+      key="ID"
+      value="ABB139"/>
+  <properties
+      key="dct:type"
+      value="eira:AdministrationComponent"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Organisational Authority"
+    id="039f357d"
+    documentation="A person or organisation having the political and/or administrative power to create and govern the interoperability capabilities of an organisation.&#xA;&#xA;Based on the definitions of authority and organisational in the Oxford dictionary.&#xA;https://en.oxforddictionaries.com/definition/authority&#xA;">
+  <properties
+      key="ID"
+      value="ABB205"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityOrganisationalAuthority"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

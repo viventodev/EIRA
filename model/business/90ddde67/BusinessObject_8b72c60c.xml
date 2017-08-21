@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Policy"
+    id="8b72c60c"
+    documentation="A set of broad, high level principles which form the guiding framework in which data management can operate.&#xA;&#xA;Source: OECD&#xA;https://stats.oecd.org/glossary/detail.asp?ID=4454 &#xA;">
+  <properties
+      key="ID"
+      value="ABB30"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPolicy"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:policy_type"
+      value="[ Information security policy | Privacy policy | Licensing and charging policy | Data quality policy | Metadata management policy ]*"/>
+</archimate:BusinessObject>

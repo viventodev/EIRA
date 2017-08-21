@@ -1,0 +1,16 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Network"
+    id="28d47042"
+    documentation="A network that can be accessed by the public (public administrations, businesses and citizens) without specific authorisations. Interoperable European Solutions can rely on Public Networks (e.g. the Internet) to realise the physical communication between nodes.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB94"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicNetwork"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:CommunicationNetwork>

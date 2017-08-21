@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Report"
+    id="011d95dc"
+    documentation="Data from testing activities and subsequently consolidated in a report to inform stakeholders.&#xA;&#xA;Based on ISTQB&#xA;http://glossary.istqb.org/search/test &#xA;">
+  <properties
+      key="ID"
+      value="ABB131"/>
+  <properties
+      key="dct:type"
+      value="eira:TestReport"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

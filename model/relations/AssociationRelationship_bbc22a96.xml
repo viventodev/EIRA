@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences"
+    id="bbc22a96"
+    documentation="A [Public Policy Implementation Approach] influences an [Operational Enabler]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_00e1a247.xml#00e1a247"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ab38566a.xml#ab38566a"/>
+</archimate:AssociationRelationship>

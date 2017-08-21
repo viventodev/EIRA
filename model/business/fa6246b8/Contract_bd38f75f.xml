@@ -1,0 +1,25 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Agreement"
+    id="bd38f75f"
+    documentation="Concrete and binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability. &#xA;This ABB is a key interoperability enabler (*) for assessing the TERMS/CONDITIONS for SHARING&amp;REUSING AND EXCHANGING information.&#xA;&#xA;An Interoperability Agreement is the means through which organisations (public administrations, or businesses) formalises the cooperation with one another. These agreements aim at the development of interoperability solutions, which meets the functional / technical requirements and needs of one another. &#xA;&#xA;Source ISA2, EIFv2&#xA;https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;&#xA;The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s).&#xA;&#xA;The EIRA differentiates the following Interoperability Agreements:&#xA;- Interoperability Service Agreement (between Public Service Consumers and Public Service Providers;&#xA;- Interoperability Collaboration Agreement (between Organisations); or&#xA;- Interoperability Provider Agreement (between Public Service Providers).&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB119"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:interoperability_type"
+      value="[ Collaboration agreement | Provider agreement | Service agreement ]"/>
+</archimate:Contract>

@@ -1,0 +1,16 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citizen"
+    id="751f40e1"
+    documentation="A Citizen is a person who is a member of a particular country and who has rights because of being born there or because of being given rights, or a person who lives in a particular town or city.&#xA;&#xA;Every national of a Member State shall be a citizen of the Union. Citizenship of the Union shall be additional to national citizenship and shall not replace it. [Treaty of Maastricht on European Union, Title II Provisions on democratic principles, article 8]&#xA;&#xA;The main difference between the two [European citizenship and citizenship of a Member State] is that the rights that citizens enjoy as a result of European citizenship are not matched with duties. Legal basis: Articles 9 to 12 TEU and 18 to 25 TFEU. [European Parliament]&#xA;The additional rights EU citizenship confers are detailed at http://ec.europa.eu/justice/citizen/index_en.htm. [European Commission] &#xA;&#xA;Based on EUR-Lex, Europa web site and the Cambridge Dictionary&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2007:306:FULL&amp;from=EN&#xA;http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_2.1.1.html&#xA;http://dictionary.cambridge.org/dictionary/english/citizen">
+  <properties
+      key="ID"
+      value="ABB8"/>
+  <properties
+      key="dct:type"
+      value="eira:Citizen"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

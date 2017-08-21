@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementing Guideline"
+    id="cbb645f0"
+    documentation="General rules, principles, or pieces of advice to put a public policy into effect.&#xA;&#xA;Based on the Oxford Dictionary&#xA;https://en.oxforddictionaries.com/definition/guideline&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB117"/>
+  <properties
+      key="dct:type"
+      value="eira:ImplementingGuideline"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

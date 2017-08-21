@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Analytics Service"
+    id="dd8b86b0"
+    documentation="Shares the functionalities of i) building analysis models and simulations to create scenarios, ii) understand realities and/or iii) predict future states. Business analytics includes data mining, predictive analytics, applied analytics and statistics, and is delivered as an application suitable for a business user. These analytics solutions often come with prebuilt industry content that is targeted at an industry business process (for example, claims, underwriting or a specific regulatory requirement).&#xA;&#xA;Based on Gartner&#xA;http://www.gartner.com/it-glossary/business-analytics/  &#xA;">
+  <properties
+      key="ID"
+      value="ABB46"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessAnalyticsService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>

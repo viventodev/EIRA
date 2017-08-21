@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Requirement or Legal Constraint"
+    id="557b4f18"
+    documentation="Legal requirements: Any legal demands, constraints, needs to be met.&#xA;Legal constraint: Legal limitation.&#xA;&#xA;Based on the Black's law dictionary:&#xA;http://thelawdictionary.org/requirements/&#xA;http://thelawdictionary.org/constraint/&#xA;">
+  <properties
+      key="ID"
+      value="ABB164"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalRequirementOrConstraint"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"
+      value="[ EU | National | Sub-national ]"/>
+  <properties
+      key="dct:description"/>
+  <properties
+      key="eira:requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="eira:implementation_supported_by_a_TES"
+      value="[ Yes | No ]"/>
+  <properties
+      key="eira:supporting_a_TES"
+      value="[ Yes | No ]"/>
+</archimate:BusinessObject>

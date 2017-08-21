@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Structure"
+    id="32aed6e7"
+    documentation="The hierarchical arrangement of lines of authority, communications, rights and duties of an organization. Organizational structure determines how the roles, power and responsibilities are assigned, controlled, and coordinated, and how information flows between the different levels of management. &#xA;&#xA;Based on BusinessDictionary.com definition of Organizational Structure&#xA;http://www.businessdictionary.com/definition/organizational-structure.html&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB14"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalStructure"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

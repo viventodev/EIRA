@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Management"
+    id="800f4e11"
+    documentation="The process responsible for maintaining information about configuration Items required to deliver an IT Service, including their relationships. &#xA;&#xA;Based on ITIL v3&#xA;https://www.axelos.com/Corporate/media/Files/Glossaries/AXELOS-Common-Glossary.pdf &#xA;">
+  <properties
+      key="ID"
+      value="ABB127"/>
+  <properties
+      key="dct:type"
+      value="eira:ConfigurationManagement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

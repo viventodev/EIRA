@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information"
+    id="ff00f8dc"
+    documentation="Represents the business facts, data, or opinions, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audio-visual forms that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about public service consumers, products and services, policies and rules, reports and metrics.&#xA;&#xA;Based on TOGAF guide about business capabilities and TOGAF definition of information.&#xA;https://www2.opengroup.org/ogsys/catalog/g161&#xA;http://pubs.opengroup.org/architecture/togaf9-doc/arch/&#xA;&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB13"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessInformation"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

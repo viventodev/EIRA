@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Choreography Service"
+    id="9b6aa824"
+    documentation="Shares the functionality of modelling a sequence of operations, states, and conditions that control the interactions involved in the participating services. The interaction prescribed by a choreography results in the completion of some useful function.&#xA;&#xA;A choreography can be distinguished from an orchestration. An orchestration defines the sequence and conditions in which one service invokes other services in order to realize some useful function.&#xA;&#xA;Based on W3C&#xA;https://www.w3.org/TR/ws-arch/&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB44"/>
+  <properties
+      key="dct:type"
+      value="eira:ChoreographyService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Exposed for reuse as main service | Exposed for reuse as supporting service | Reused ]"/>
+</archimate:ApplicationService>
